@@ -1,6 +1,6 @@
  
 # algoritimo que le hora minuto e segundo
-# caucula quantos segundos se passaram desde as 00:00:00(zero horas) 
+# calcula quantos segundos se passaram desde as 00:00:00(zero horas) 
 # professor Habib
 #aluno Genilson M. Souza
 #exercicio 03
