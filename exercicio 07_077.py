@@ -1,4 +1,4 @@
-#coding:utf-8 (desmarquie porque meu teclado ta US aqui no linux)
+ 
 # algoritimo dada idade do nadador verifique sua categoria
 # professor Habib
 #aluno Genilson M. Souza
