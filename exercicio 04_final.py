@@ -1,4 +1,4 @@
-#coding:utf-8 (desmarquie porque meu teclado ta US aqui no linux)
+
 # algoritimo verificar se o numero e positivo caso for imprima seu quadrado
 # senao imprima seu valor absoluto
 # professor Habib
