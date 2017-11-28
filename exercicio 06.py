@@ -1,4 +1,4 @@
-#coding:utf-8 (desmarquie porque meu teclado ta US aqui no linux)
+ 
 # algoritimo verifica se ele e ou nao multiplo de 3
 # aluno Genilson
 # professor Habib
