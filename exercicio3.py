@@ -1,4 +1,4 @@
-#coding:utf-8 (desmarquie porque meu teclado ta US aqui no linux)
+#coding:utf-8 
 # algoritimo que leia tempo, hr, min, seg escrevendo valor total em segundos
 # aluno Genilson
 # professor Habib
